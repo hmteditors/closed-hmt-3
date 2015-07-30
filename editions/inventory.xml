@@ -36,7 +36,7 @@
                 <label xml:lang="eng">msA</label>
                 <description xml:lang="eng">Main marginal scholia of the Venetus A manuscript, Marciana 454
                     (=822).</description>
-                <online docname="scholia/VenetusA-Scholia-03.xml">
+                <online docname="scholia/VenetusA-Scholia-main.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -55,7 +55,7 @@
                 <label xml:lang="eng">msAext</label>
                 <description xml:lang="eng">Exterior scholia of the Venetus A manuscript, Marciana 454
                     (=822).</description>
-                <online docname="scholia/VenetusA-Scholia-03.xml">
+                <online docname="scholia/VenetusA-Scholia-ext.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -74,7 +74,7 @@
                 <label xml:lang="eng">msAil</label>
                 <description xml:lang="eng">Interlinear scholia of the Venetus A manuscript, Marciana 454
                     (=822).</description>
-                <online docname="scholia/VenetusA-Scholia-03.xml">
+                <online docname="scholia/VenetusA-Scholia-ail.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -93,7 +93,7 @@
                 <label xml:lang="eng">msAim</label>
                 <description xml:lang="eng">Intermarginal scholia (between main marginal scholia and text)
                     of the Venetus A manuscript, Marciana 454 (=822).</description>
-                <online docname="scholia/VenetusA-Scholia-03.xml">
+                <online docname="scholia/VenetusA-Scholia-aim.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -113,7 +113,7 @@
                 <label xml:lang="eng">msAint</label>
                 <description xml:lang="eng">Interior (gutter) scholia of the Venetus A manuscript, Marciana
                     454 (=822).</description>
-                <online docname="scholia/VenetusA-Scholia-03.xml">
+                <online docname="scholia/VenetusA-Scholia-aint.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
