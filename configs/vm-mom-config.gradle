@@ -5,14 +5,15 @@ project.ext {
   invSchema="/vagrant/hmt-3/editions/schemas/TextInventory.rng"
 
     // Lists of index files to use in verification:
-    folioToImage = "/vagrant/hmt-3/indices/venA-folioToImage.csv,/vagrant/hmt-3/indices/ups11-folioToImage.csv"
+    folioToImage = "/vagrant/hmt-3/indices/venA-folioToImage.csv"
 
-    textToImage = "/vagrant/hmt-3/indices/venA-textToImage-Iliad.csv,/vagrant/hmt-3/indices/ups11-textToImage-Iliad.csv"
-    textToFolio = "/vagrant/hmt-3/indices/venA-textToFolio-Iliad.csv,/vagrant/hmt-3/indices/ups11-textToFolio-Iliad.csv"
+    textToImage = "/vagrant/hmt-3/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/hmt-3/indices/venA-textToFolio-Iliad.csv"
 
-    scholiaInventories = "/vagrant/hmt-3/collections/venA-allScholia.csv,/vagrant/hmt-3/collections/ups-1-1-allScholia.csv,/vagrant/hmt-3/collections/ups11-LateScholia.csv"
+    //scholiaInventories = "/vagrant/hmt-3/collections/venA-allScholia.csv,/vagrant/hmt-3/collections/ups-1-1-allScholia.csv,/vagrant/hmt-3/collections/ups11-LateScholia.csv"
 
-    codexModel = "/vagrant/hmt-3/collections/codexModels/venetusA.csv,/vagrant/hmt-3/collections/codexModels/ups11.csv"
+    scholiaInventories = "/vagrant/hmt-3/collectionsVenetusA-Scholia-03.csv"
+    codexModel = "/vagrant/hmt-3/collections/codexModels/venetusA.csv"
 
 
 
