@@ -95,7 +95,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div
                      type="comment">
-                     <p> ἀντι του τρώων πτωτικὸν τὸ σχῆμα ταῖς δοτικαῖς γὰρ ἀντι γενικῶν χρῶνται οἱ
+                     <p> ἀντι του <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> πτωτικὸν τὸ σχῆμα ταῖς δοτικαῖς γὰρ ἀντι γενικῶν χρῶνται οἱ
                         ποιεται ⁑</p>
                   </div>
                </div>
@@ -113,13 +113,13 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div
                      type="comment">
-                     <p> ουτως ὁ αρισταρχος προπερισπα δεϊοτητι ὡς ἀπο ὀξυτόνου <choice>
+                     <p> ουτως ὁ <persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName> προπερισπα δεϊοτητι ὡς ἀπο ὀξυτόνου <choice>
                            <abbr>ευ</abbr>
                            <expan>ευθειας</expan>
-                        </choice> τὸ δε κεφάλαιον ἐκτέταται ἐν τῆι ιλιακη <choice>
+                        </choice> τὸ δε κεφάλαιον ἐκτέταται ἐν τῆι <title>Ιλιακη <choice>
                            <abbr>προσα</abbr>
                            <expan>προσωδια</expan>
-                        </choice> ⁑</p>
+                        </choice></title> ⁑</p>
                   </div>
                </div>
                <div
