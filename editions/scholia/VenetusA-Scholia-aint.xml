@@ -60,7 +60,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div
                      type="comment">
-                     <p> ὁτι τὸ εὖτε οὐκ έστιν χρονικὸν ἀλλ ὁμοιωματικὸν ἀναλογούν τω<q>ἠΰτε
+                     <p> ὁτι τὸ εὖτε οὐκ έστιν χρονικὸν ἀλλ ὁμοιωματικὸν ἀναλογοῦν τω<q>ἠΰτε
                         ⁑</q></p>
                   </div>
                </div>
@@ -78,7 +78,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div
                      type="comment">
-                     <p> ὁτι οὐ λεγει ὑπο ποδων ἀελλὴς αλλα κονισαλος ἀελλης ἀελλοδης ⁑</p>
+                     <p> ὁτι οὐ λεγει ὑπο ποδῶν ἀελλὴς αλλα κονισαλος ἀελλης ἀελλώδης ⁑</p>
                   </div>
                </div>
                <div
@@ -96,7 +96,7 @@ style simple scholia" alternate="no"?>
                   <div
                      type="comment">
                      <p> ἀντι του <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> πτωτικὸν τὸ σχῆμα ταῖς δοτικαῖς γὰρ ἀντι γενικῶν χρῶνται οἱ
-                        ποιεται ⁑</p>
+                        ποιηται ⁑</p>
                   </div>
                </div>
                <div
@@ -113,12 +113,12 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div
                      type="comment">
-                     <p> ουτως ὁ <persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName> προπερισπα δεϊοτητι ὡς ἀπο ὀξυτόνου <choice>
-                           <abbr>ευ</abbr>
-                           <expan>ευθειας</expan>
-                        </choice> τὸ δε κεφάλαιον ἐκτέταται ἐν τῆι <title>Ιλιακη <choice>
-                           <abbr>προσα</abbr>
-                           <expan>προσωδια</expan>
+                     <p> ουτως ὁ <persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName> προπερισπᾶ δηϊοτητι ὡς ἀπο ὀξυτόνου <choice>
+                           <abbr>ευθ</abbr>
+                        <expan>εὐθείας</expan>
+                     </choice> τὸ δε κεφάλαιον ἐκτέταται ἐν τῆι <title><choice><abbr>Ιλιακ</abbr><expan>Ιλιακῄ</expan></choice> <choice>
+                           <abbr>προσαδ</abbr>
+                        <expan>προσῳδίᾳ</expan>
                         </choice></title> ⁑</p>
                   </div>
                </div>
@@ -135,7 +135,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div
                      type="comment">
-                     <p> νεκροῦ γὰρ φασὶ σώματος μὴ ἄπτεσθαι λέοντα ⁑</p>
+                     <p> νεκροῦ γὰρ φασὶ σώματος μὴ άπτεσθαι λέοντα ⁑</p>
                   </div>
                </div>
                <div
@@ -152,12 +152,12 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div
                      type="comment">
-                     <p> ὁτι τὸ εἴπερ ἂν αυτον ἀντι του ει καὶ ἀυτον ὡς ὅταν <choice>
+                     <p> ὁτι τὸ εἴπερ ἂν αυτὸν ἀντι του ει καὶ αὐτον ὡς ὅταν <choice>
                            <abbr>λεγ</abbr>
-                           <expan>λεγη</expan>
-                        </choice> εἴπερ ἂν αὐταὶ μοῦσαι αείδοιεν ἀντι τοῦ καὶ αὐταὶ· και ὅτι ὁ τὲ <choice>
-                           <abbr>συν</abbr>
-                           <expan>συνδεσμος</expan>
+                        <expan>λέγῃ</expan>
+                        </choice> εἴπερ ἂν αὐταὶ μοῦσαι θέ δ' οιεν ἀντι τοῦ καὶ αὐταὶ· και ὅτι ὁ τὲ <choice>
+                           <abbr>συνδ</abbr>
+                           <expan>σύνδεσμος</expan>
                         </choice> περισσός ⁑</p>
                   </div>
                </div>
