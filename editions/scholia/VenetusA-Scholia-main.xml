@@ -138,7 +138,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.6" n="16" type="scholion">
                   <div type="lemma">
-                     <p> Πυγμαίοι </p>
+                     <p><sic>Πυγμαίοι</sic></p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.6</p>
@@ -303,7 +303,7 @@ style simple scholia" alternate="no"?>
                            <expan>προσθέσει</expan>
                         </choice> ἄρθου καὶ μεταλλάξει τοῦ συνδεσμου ὡς ἐπι τοῦ
                            <persName>Κύκλωπος</persName> καδ δέ μιν ὕπνος ἤρη· πανδαμάτωρ ὅ δ'
-                        ἔρευγ' οἰνοβαρείων ἀντὶ τοῦ καὶ ἐρευγετο <persName>Ζηνόδοτος</persName> δὲ
+                        <sic>ἔρευγ'</sic> οἰνοβαρείων ἀντὶ τοῦ καὶ ἐρευγετο <persName>Ζηνόδοτος</persName> δὲ
                         ἡ <sic>θετήκε</sic> τοῖς ἑξῆς οὐ συντιθέμενον δεῖ δὲ κοινὸν παραλαβεῖν αὐτὰρ ὁ δοῦρε
                         δύω ἔχων καὶ νοεῖν τὸ ἄρθον ἐξ επαναλήψεως παρήμενον ἐπὶ τοῦ αὐτοῦ προσώπου ⁑</p>
                   </div>
