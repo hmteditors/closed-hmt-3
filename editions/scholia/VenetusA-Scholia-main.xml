@@ -29,9 +29,15 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.1</p>
                   </div>
                   <div type="comment">
-                     <p>ἄμφω τὰς στρατιὰς διατυποῖ καὶ μέχρι τέλους οὐκ εξίσταται τοῦ ἤθους ὥστ'
-                        ὄϊες <sic>πολυπάμμονος</sic> καὶ ἐς <rs type="ethnic"
-                           n="urn:cite:hmt:place.place6">Τρώων</rs> όμαδον κίεν ⁑</p>
+                     <p>ἄμφω τὰς στρατιὰς διατυποῖ καὶ μέχρι τέλους οὐκ εξίσταται τοῦ ἤθους <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.433</ref>
+                           <q>ὥστ' ὄϊες <sic>πολυπάμμονος</sic></q>
+                        </cit>
+                        <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:7.307</ref>
+                           <q>καὶ ἐς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>
+                              όμαδον κίεν</q>
+                        </cit> ⁑</p>
                   </div>
                </div>
                <div ana="3.1" n="1" type="scholion">
@@ -46,9 +52,9 @@ style simple scholia" alternate="no"?>
                         <choice>
                            <abbr>διαφε</abbr>
                            <expan>διαφέρει</expan>
-                        </choice> δὲ ὁ <q>ἀυτὰρ</q> τοῦ <q>δὲ</q>. καθὸ ὁ
-                        μὲν <rs type="waw">αὐτὰρ</rs> προτάσσεται ὁ δὲ <q>δὲ</q>
-                        ὑποτάσσεται· ζητεῖται δὲ πῶς δὴ τὸν <q>αὐτὰρ</q>
+                        </choice> δὲ ὁ <q>ἀυτὰρ</q> τοῦ <q>δὲ</q>. καθὸ ὁ μὲν <rs type="waw"
+                           >αὐτὰρ</rs> προτάσσεται ὁ δὲ <q>δὲ</q> ὑποτάσσεται· ζητεῖται δὲ πῶς δὴ
+                        τὸν <q>αὐτὰρ</q>
                         <choice>
                            <expan>σύνδεσμον</expan>
                            <abbr>συνδ</abbr>
@@ -59,8 +65,8 @@ style simple scholia" alternate="no"?>
                         <q>εἴθαρ</q>
                         <q>δάμαρ</q>
                         <q>στέαρ</q>
-                        <q>οὖθαρ</q>· ῥητέον δὲ ὅτι οὐδεὶς συμπλεκτικὸς ἢ περισπᾶται ῆ
-                        βαρύνεται πάντες δὲ οξύνονται ⁑</p>
+                        <q>οὖθαρ</q>· ῥητέον δὲ ὅτι οὐδεὶς συμπλεκτικὸς ἢ περισπᾶται ῆ βαρύνεται
+                        πάντες δὲ οξύνονται ⁑</p>
                   </div>
                </div>
                <div n="671" type="scholion">
@@ -85,8 +91,8 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.2</p>
                   </div>
                   <div type="comment">
-                     <p> βραχὺ διασταλτέον ἐπι τὸ <q>ὡς</q> ἡ γὰρ ἀνταπόδοσις πρόκειται καὶ ἀνεστραμμένη ἡ
-                        περίοδος ἐστιν ⁑</p>
+                     <p> βραχὺ διασταλτέον ἐπι τὸ <q>ὡς</q> ἡ γὰρ ἀνταπόδοσις πρόκειται καὶ
+                        ἀνεστραμμένη ἡ περίοδος ἐστιν ⁑</p>
                   </div>
                </div>
                <div ana="3.3b" n="10" type="scholion">
@@ -151,27 +157,33 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.10b" n="23" type="scholion">
                   <div type="lemma">
-                     <p> </p>
+                     <p>εὔτ' ὄρεος κορυφῆσι</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.10</p>
                   </div>
                   <div type="comment">
-                     <p> εὔτ' ὄρεος κορυφῆσι δια τοῦ <rs type="waw">ε</rs> αἱ <persName
-                           n="urn:cite:hmt:pers.pers16">Αρισταρχου</persName> τὸ εὖτε καὶ τὸ
-                           <sic>ἑτεροθί</sic> που λεγόμενον <quote>τῶ δ' εὖτε πτερὰ γίνεται</quote>
-                        ἀντι τοῦ ὡς πτερὰ ἐγίνετο ἐλαφρα τὰ του <persName
+                     <p>δια τοῦ <rs type="waw">ε</rs> αἱ <persName n="urn:cite:hmt:pers.pers16"
+                           >Αρισταρχου</persName> τὸ <q>εὖτε</q> καὶ τὸ <sic>ἑτεροθί</sic> που
+                        λεγόμενον <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:19.386</ref>
+                           <q>τῶ δ' εὖτε πτερὰ γίνεται</q>
+                        </cit> ἀντι τοῦ ὡς πτερὰ ἐγίνετο ἐλαφρα τὰ του <persName
                            n="urn:cite:hmt:pers.pers192">Ηφαίστου</persName> όπλα τῷ <persName
                            n="urn:cite:hmt:pers.pers1">Αχιλλεῖ</persName> ἐν ἐνίαις δὲ τῶν ἐκδόσεων
                         τῇ τε <title>Χίᾳ</title> καὶ τῆ <title>Μασσαλιωτικῇ</title> καὶ τισὶν ἄλλαις
                         ἐκπλήρους ἐγέγραπτο <quote>ἠΰτε ὄρευς κορυφῆισι</quote> παρα τῷ ειωθος
                            <persName n="urn:cite:hmt:pers.pers17">Ομήρω</persName>. ἐκ πλήρους γαρ
-                        παρ έκαστα γράφειν <rs type="waw">όρεος </rs> εἰσὶ δ' οἳ και ἑτέρως ἀκουουσι
-                        τὸ εῦτε. ἀντι τοῦ ότε, καθάπερ καὶ ἐν ἄλλοις <quote> εὖτε γὰρ
-                              <sic>ηὲλιος</sic> φαέθων</quote> καὶ <quote>εὖτ' ἀστήρ
-                           ὑπερέσχε</quote> λαμβανουσι ὁμίχλην<quote> ποιμέσιν οὔτι φίλην κλέπτῃ δέ
-                           τε νυκτὸς ἀμείνω τόσσον τίς τ' ἐπὶ λάᾶν ὅσον ἐπὶ λάαν ἰ̈́ησιν</quote>·
-                        ὁπότε ὁ νότος ταῖς τοῦ όρους κορυφαῖς κατέχεεν ὁμίχλην τοῖς μὲν ποιμέσιν οὐ <choice>
+                        παρ έκαστα γράφειν <q>όρεος </q> εἰσὶ δ' οἳ και ἑτέρως ἀκουουσι τὸ
+                           <q>εῦτε</q>. ἀντι τοῦ <q>ότε</q>, καθάπερ καὶ ἐν ἄλλοις <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.735</ref>
+                           <quote>εὖτε γὰρ <sic>ηὲλιος</sic> φαέθων</quote>
+                        </cit> καὶ <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:13.93</ref>
+                           <quote>εὖτ' ἀστήρ ὑπερέσχε</quote>
+                        </cit> λαμβανουσι ὁμίχλην <quote>ποιμέσιν οὔτι φίλην κλέπτῃ δέ τε νυκτὸς
+                           ἀμείνω τόσσον τίς τ' ἐπὶ λάᾶν ὅσον ἐπὶ λάαν ἰ̈́ησιν</quote>· ὁπότε ὁ
+                        νότος ταῖς τοῦ όρους κορυφαῖς κατέχεεν ὁμίχλην τοῖς μὲν ποιμέσιν οὐ <choice>
                            <abbr>προσφιλ</abbr>
                            <expan>προσφιλῆ</expan>
                         </choice> τῷ δὲ κλέπτῃ νυκτός κρείσσονα, τότε ἐπι τοσοῦτον δύναταί τις
@@ -188,9 +200,8 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.19-3.20</p>
                   </div>
                   <div type="comment">
-                     <p> τὸ <rs type="waw">πάλλον</rs> καὶ τὸ <rs type="waw">ἀντίβιον</rs>
-                        ἀθετοῦνται ἀμφότεροι· ὁ γὰρ παρδαλέην ἀνειληφὼς καὶ τοξικὴν στολὴν ἔχων οὐκ
-                        ἂν προκαλοῖτο εἰς <choice>
+                     <p> τὸ <q>πάλλον</q> καὶ τὸ <q>ἀντίβιον</q> ἀθετοῦνται ἀμφότεροι· ὁ γὰρ
+                        παρδαλέην ἀνειληφὼς καὶ τοξικὴν στολὴν ἔχων οὐκ ἂν προκαλοῖτο εἰς <choice>
                            <abbr>μονομαχ</abbr>
                            <expan>μονομαχίαν</expan>
                         </choice> ἀλλ' ὕστερον ἐπι <choice>
@@ -230,17 +241,15 @@ style simple scholia" alternate="no"?>
                            >Αλέξανδρος</persName> προεκαλεῖτο πάντας τοὺς ἀρίστους τῶν <rs
                            type="ethnic" n="urn:cite:hmt:place.place3">Ελλήνων</rs> δειλὸς ὦν τὰ
                         παντα καὶ οὑδὲ ὁπλίτης ἀλλα τοξότης ἔνιοι μὲν οὖν φασὶν ἀλαζονεύεσθαι αὐτὸν
-                        τὰ ἀδύνατα <choice>
-                           <abbr>φοβεῖσ</abbr>
-                           <expan>φοβεῖσθαι</expan>
-                        </choice> δὲ τὰ τυχόντα οἱ δὲ ὅτι συγκεκλεισμένοι ὑπὸ
-                        <persName n="urn:cite:hmt:pers.pers1">Αχιλλέως</persName> οἱ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> τοὺς τῶν
-                        <rs type="ethnic" n="urn:cite:hmt:place.place3">Ελλήνων</rs> ἀρίστους οὐκ ἤδεισαν ·καὶ ἐμοὶ μὲν δοκεῖ ὅτι
-                        κωμωδεῖν ἐπανηρημένος ὁ ποιητὴς σχῆμα τῆς οπλήσεως καὶ θρασος ἀλλότρὶον τῶν
-                        ὅπλων αὐτώ <choice>
-                           <abbr>προστέθεικ</abbr>
-                           <expan>προστέθεικεν</expan>
-                        </choice> ἵν' ἐκ τοῦ <choice>
+                        τὰ ἀδύνατα φοβεῖσθαι δὲ τὰ τυχόντα οἱ δὲ ὅτι συγκεκλεισμένοι ὑπὸ <persName
+                           n="urn:cite:hmt:pers.pers1">Αχιλλέως</persName> οἱ <rs type="ethnic"
+                           n="urn:cite:hmt:place.place6">Τρῶες</rs> τοὺς τῶν <rs type="ethnic"
+                           n="urn:cite:hmt:place.place3">Ελλήνων</rs> ἀρίστους οὐκ ἤδεισαν ·καὶ ἐμοὶ
+                        μὲν δοκεῖ ὅτι κωμωδεῖν ἐπανηρημένος ὁ ποιητὴς <choice>
+                           <abbr>σχημ</abbr>
+                           <expan>σχῆμα</expan>
+                        </choice> τῆς οπλήσεως καὶ θρασος ἀλλότρὶον τῶν ὅπλων αὐτώ προστέθεικεν ἵν'
+                        ἐκ τοῦ <choice>
                            <abbr>με</abbr>
                            <expan>μέλλοντος</expan>
                         </choice> φόβου μείζονα προς ὀφλήση τὸν γέλωτα ⁑</p>
@@ -259,13 +268,9 @@ style simple scholia" alternate="no"?>
                            <expan>εἴρηται</expan>
                         </choice> παρὰ τὸ <sic>έλειν</sic> τοὺς όφεις <sic>οἷονεὶ</sic> ἔλαφος τίς
                         οῦσα τούτους γὰρ ἐσθίουσα καθαίρεται φυσικῶς οὕτως γοῦν οἱ ὄφεις ὅτε
-                        ἀφανισθῶσιν αύτη τὸ κέρας αὐτῆς <sic>προστριβῆ</sic> εἰς πέτραν ὅ <choice>
-                           <abbr>θερμαινόμ</abbr>
-                           <expan>θερμαινόμενον</expan>
-                        </choice> ποιεῖ τινὰ ἀναθυμίασιν, ἧς <choice>
-                           <abbr>μεταλαμβανόμ</abbr>
-                           <expan>μεταλαμβανόμενοι</expan>
-                        </choice> οἱ όφεις τῶν <sic>φολεῶν</sic>
+                        ἀφανισθῶσιν αύτη τὸ κέρας αὐτῆς <sic>προστριβῆ</sic> εἰς πέτραν ὅ
+                        θερμαινόμενον ποιεῖ τινὰ <choice><sic>ἀναθύμιασιν</sic><corr>ἀναθυμίασιν</corr></choice>, ἧς μεταλαμβανόμενοι οἱ όφεις τῶν
+                           <sic>φολεῶν</sic>
                         <sic>εξίουσιν</sic> ⁑ </p>
                   </div>
                </div>
@@ -278,11 +283,12 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div type="comment">
                      <p> ὅτι <w><add place="supralinear">τι</add>νες</w> γράφουσι σὺν τῷ <rs
-                           type="waw">ν</rs> ἀμείνων εἰ δε κατ αιτιατικήν ἐστι <choice>
+                           type="waw">ν</rs>
+                        <q>ἀμείνων</q> εἰ δε κατ αιτιατικήν ἐστι <choice>
                            <abbr>χω</abbr>
                            <expan>χωρὶς</expan>
                         </choice> τοῦ <rs type="waw">ν</rs> γράφεται ἀνάλογον γάρ ἐστί τὸ ἀμείνονα
-                        ἄλλοι δὲ γράφουσιν ἀντι τοῦ νυκτὸς ἀμείνω ⁑ </p>
+                        ἄλλοι δὲ γράφουσιν ἀντι τοῦ <q>νυκτὸς ἀμείνω</q> ⁑ </p>
                   </div>
                </div>
                <div ana="3.18a" n="674" type="scholion">
@@ -296,23 +302,27 @@ style simple scholia" alternate="no"?>
                      <p>
                         <persName n="urn:cite:hmt:pers.pers16">Αρίσταρχος</persName> ἄνευ τοῦ <choice>
                            <abbr>αρθ</abbr>
-                           <expan>αρθου</expan>
-                        </choice> αὐτὰρ δοῦρε οὕτως καὶ <persName n="urn:cite:hmt:pers.pers21">Αριστοφάνους</persName> καὶ ἡ
-                        <persName n="urn:cite:hmt:pers.pers309">Καλλιστράτου</persName> καὶ σχεδὸν οὕτως καὶ αἱ χαριέσταται ·
-                        καὶ ὁ ϊξίων ἐν τῴ <sic>πρωτῳ</sic> πρὸς τὰς ἐξηγήσεις ὁμοίως προφέρεται ἔχει
-                        δὲ τον Ομηρικὸν χαρακτηρα καὶ ἡ σὺν τῷ ἄρθρω γραφη
-                        καίπερ οὐκ οῦσα Αριστάρχειος σύνηθες γὰρ τῷ <choice>
+                           <expan>ἄρθρου</expan>
+                        </choice>
+                        <q>αὐτὰρ δοῦρε</q> οὕτως καὶ <persName n="urn:cite:hmt:pers.pers21"
+                           >Αριστοφάνους</persName> καὶ ἡ <persName n="urn:cite:hmt:pers.pers309"
+                           >Καλλιστράτου</persName> καὶ σχεδὸν οὕτως καὶ αἱ χαριέσταται · καὶ ὁ
+                           <persName n="urn:cite:hmt:pers.pers250">ϊξίων</persName> ἐν τῴ πρωτῳ πρὸς
+                        τὰς ἐξηγήσεις ὁμοίως <choice><abbr>προφέρετ</abbr><expan>προφέρεται</expan></choice> ἔχει δὲ τον Ομηρικὸν χαρακτηρα καὶ ἡ σὺν τῷ
+                        ἄρθρω γραφη καίπερ οὐκ οῦσα Αριστάρχειος σύνηθες γὰρ τῷ <choice>
                            <abbr>ποιητ</abbr>
                            <expan>ποιητῇ</expan>
                         </choice> ἐπι τῶν αὐτῶν μένοντι ὑπόνοιαν παρέχειν ὡς περι ἑτέρου διαλέγοιτο <choice>
-                           <abbr>προσ</abbr>
+                           <abbr>προσθ</abbr>
                            <expan>προσθέσει</expan>
-                        </choice> ἄρθου καὶ μεταλλάξει τοῦ συνδεσμου ὡς ἐπι τοῦ
-                           Κύκλωπος καδ δέ μιν ὕπνος ἤρη· πανδαμάτωρ ὅ δ'
-                           <sic>ἔρευγ'</sic> οἰνοβαρείων ἀντὶ τοῦ καὶ ἐρευγετο
-                        <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> δὲ ἡ <sic>θετήκε</sic> τοῖς ἑξῆς οὐ
-                        συντιθέμενον δεῖ δὲ κοινὸν παραλαβεῖν αὐτὰρ ὁ δοῦρε δύω ἔχων καὶ νοεῖν τὸ
-                        ἄρθον ἐξ επαναλήψεως παρήμενον ἐπὶ τοῦ αὐτοῦ προσώπου ⁑</p>
+                        </choice> ἄρθου καὶ μεταλλάξει τοῦ συνδεσμου ὡς ἐπι τοῦ <choice><abbr>Κύκλωπ</abbr><expan>Κύκλωπος</expan></choice> <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.372</ref>
+                           <q>καδ δέ μιν ὕπνος ἤρη· πανδαμάτωρ ὅ δ' <sic>ἔρευγ'</sic>
+                              οἰνοβαρείων</q>
+                        </cit> ἀντὶ τοῦ καὶ ἐρευγετο <persName n="urn:cite:hmt:pers.pers15"
+                           >Ζηνόδοτος</persName> δὲ ἡ <sic>θετήκε</sic> τοῖς ἑξῆς οὐ συντιθέμενον
+                        δεῖ δὲ κοινὸν παραλαβεῖν <q>αὐτὰρ ὁ δοῦρε δύω ἔχων</q> καὶ νοεῖν τὸ ἄρθον ἐξ
+                        επαναλήψεως παρήμενον ἐπὶ τοῦ αὐτοῦ προσώπου ⁑</p>
                   </div>
                </div>
                <div ana="3.29b" n="60" type="scholion">
