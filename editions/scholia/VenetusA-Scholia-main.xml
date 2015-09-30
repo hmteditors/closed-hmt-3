@@ -46,20 +46,20 @@ style simple scholia" alternate="no"?>
                         <choice>
                            <abbr>διαφε</abbr>
                            <expan>διαφέρει</expan>
-                        </choice> δὲ ὁ <rs type="waw">ἀυτὰρ</rs> τοῦ <rs type="waw">δὲ</rs>. καθὸ ὁ
-                        μὲν <rs type="waw">αὐτὰρ</rs> προτάσσεται ὁ δὲ <rs type="waw">δὲ</rs>
-                        ὑποτάσσεται· ζητεῖται δὲ πῶς δὴ τὸν <rs type="waw">αὐτὰρ</rs>
+                        </choice> δὲ ὁ <q>ἀυτὰρ</q> τοῦ <q>δὲ</q>. καθὸ ὁ
+                        μὲν <rs type="waw">αὐτὰρ</rs> προτάσσεται ὁ δὲ <q>δὲ</q>
+                        ὑποτάσσεται· ζητεῖται δὲ πῶς δὴ τὸν <q>αὐτὰρ</q>
                         <choice>
                            <expan>σύνδεσμον</expan>
                            <abbr>συνδ</abbr>
                         </choice> προφέρεσθαι πότερον ὀξυτόνως ἢ βαρυτόνως· οἱ μὲν οὖν ὀξυτόνως
                         ἀνεγνώκασιν ὡς <persName n="urn:cite:hmt:pers.pers86">Καλλίμαχος</persName>
                         οἱ δὲ βαρυτόνως λόγῳ τῶδε· πᾶσα λέξις εἰς <rs type="waw">αρ</rs> λήγουσα
-                        βαρύνεται οἷον <rs type="waw">ἄφαρ</rs>
-                        <rs type="waw">εἴθαρ</rs>
-                        <rs type="waw">δάμαρ</rs>
-                        <rs type="waw">στέαρ</rs>
-                        <rs type="waw">οὖθαρ</rs>· ῥητέον δὲ ὅτι οὐδεὶς συμπλεκτικὸς ἢ περισπᾶται ῆ
+                        βαρύνεται οἷον <q>ἄφαρ</q>
+                        <q>εἴθαρ</q>
+                        <q>δάμαρ</q>
+                        <q>στέαρ</q>
+                        <q>οὖθαρ</q>· ῥητέον δὲ ὅτι οὐδεὶς συμπλεκτικὸς ἢ περισπᾶται ῆ
                         βαρύνεται πάντες δὲ οξύνονται ⁑</p>
                   </div>
                </div>
@@ -85,7 +85,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.2</p>
                   </div>
                   <div type="comment">
-                     <p> βραχὺ διασταλτέον ἐπι τὸ ὡς ἡ γὰρ ἀνταπόδοσις πρόκειται καὶ ἀνεστραμμένη ἡ
+                     <p> βραχὺ διασταλτέον ἐπι τὸ <q>ὡς</q> ἡ γὰρ ἀνταπόδοσις πρόκειται καὶ ἀνεστραμμένη ἡ
                         περίοδος ἐστιν ⁑</p>
                   </div>
                </div>
@@ -106,8 +106,8 @@ style simple scholia" alternate="no"?>
                            <expan>οὐρανόν</expan>
                         </choice> γὰρ καλεῖ τὸν ὑπὸ τὰ νέφη τόπον διὸ καὶ τας τοῦ <placeName
                            n="urn:cite:hmt:place.place45">Ολύμπου</placeName> κορυφὰς ἐπ <choice>
-                           <abbr>ὀυνίους</abbr>
-                           <expan>ὀυρανίους</expan>
+                           <abbr>οὐνίους</abbr>
+                           <expan>οὐρανίους</expan>
                         </choice> νοητέον ⁑</p>
                   </div>
                </div>

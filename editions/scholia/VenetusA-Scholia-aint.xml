@@ -112,7 +112,7 @@ style simple scholia" alternate="no"?>
                      <p> ὁτι τὸ <q>εἴπερ ἂν αυτὸν</q> ἀντι του <q>ει καὶ αὐτον</q> ὡς ὅταν <choice>
                            <abbr>λεγ</abbr>
                            <expan>λέγῃ</expan>
-                        </choice> εἴπερ ἂν αὐταὶ μοῦσαι θέ δ' οιεν ἀντι τοῦ <q>καὶ αὐταὶ</q>· και ὅτι ὁ τὲ <choice>
+                        </choice> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:2.598</ref><q>εἴπερ ἂν αὐταὶ Μοῦσαι θέ δ' οιεν</q></cit> ἀντι τοῦ <q>καὶ αὐταὶ</q>· και ὅτι ὁ τὲ <choice>
                            <abbr>συνδ</abbr>
                            <expan>σύνδεσμος</expan>
                         </choice> περισσός ⁑</p>
