@@ -353,13 +353,13 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div type="comment">
                      <p> οὕτως ὦχρος ὡς μῶμος εἰς ἀποφυγὴν τοῦ ἐπιθετικοῦ· τάχα δὲ καὶ ἄχροός ἐστιν
-                        ὃ ἐν ὑπερθέσει γίνεται ἄοχρος καὶ κατα συναλειφὴν ποιεῖ τὸ ὦχρος
+                        ὃ ἐν ὑπερθέσει γίνεται ἄοχρος καὶ κατα <sic>συναλειφεὶν</sic> ποιεῖ τὸ ὦχρος
                         βαρυνόμενον· ἄλλως τε· τὰ εἰς <rs type="waw">ος</rs> λήγοντα δισύλλαβα
                         μονογενῆ <choice>
                            <abbr>ἀρχόμ</abbr>
                            <expan>ἀρχόμενα</expan>
-                        </choice> ἀπo τοῦ <rs type="waw">ω</rs> μὴ προσκειμένου τοῦ <rs type="waw"
-                           >ϊ</rs> βαρύνεται <rs type="waw">ὦμος</rs> ὦμος προσκειται μὴ ἔχοντα τὸ ϊ
+                        </choice> ἀπο τοῦ <rs type="waw">ω</rs> μὴ προσκειμένου τοῦ <rs type="waw"
+                           >ϊ</rs> βαρύνεται <rs type="waw">ὦμος</rs> ὦμος πρόσκειται μὴ ἔχοντα τὸ <rs type="waw">ϊ</rs>
                         διὰ τὸ ᾠδός τρῳδός ⁑ </p>
                   </div>
                </div>
@@ -387,7 +387,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.35</p>
                   </div>
                   <div type="comment">
-                     <p> οὕτως ὀξυτόνως καὶ χωρὶς τοῦ ς γραπτέον, ἵνα ᾖ οὐδέτερον τὰ γὰρ ἀπο τῶν
+                     <p> οὕτως ὀξυτόνως καὶ χωρὶς τοῦ <rs type="waw">ς</rs> γραπτέον, ἵνα ᾖ οὐδέτερον τὰ γὰρ ἀπο τῶν
                         τοιούτων θηλυκῶν <choice>
                            <abbr>μεταποιούμα</abbr>
                            <expan>μεταποιούμενα</expan>
@@ -412,7 +412,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.36</p>
                   </div>
                   <div type="comment">
-                     <p> ὅτι ἀγερώχους τοὺς <rs>Τρῷας</rs> οὐμόνον τοὺς <rs>Ῥοδίους</rs> ὥς τινες
+                     <p> ὅτι ἀγερώχους τοὺς <rs>Τρῷας</rs> οὐ μόνον τοὺς <rs>Ῥοδίους</rs> ὥς τινες
                         ὠήθησαν, δια τὸ ἀγείρειν τὴν ὀχήν τοῦτέστι τὴν τροφήν ὁ γὰρ
                            <persName>Ὅμηρος</persName> ἀγερώχους τοὺς ἄγαν γεραωχοὺς καὶ σεμνοὺς
                         λέγει ⁑ </p>
@@ -428,7 +428,7 @@ style simple scholia" alternate="no"?>
                   <div type="comment">
                      <p> ἐπι κακῷ ὠνομασμένε <persName>Πάρι</persName> κακὲ
                            <persName>Πάρι</persName> καὶ <persName>Αλχμὰν</persName> φησίν
-                           <quote>Δύσπαρις Αἰνόπαρις κακὸν Ελλαδι Βοτιανείρι</quote> ⁑</p>
+                        <quote>Δύσπαρις Αἰνόπαρις κακὸν Ἑλλάδι <sic>Βοτιανείρῃ</sic></quote> ⁑</p>
                   </div>
                </div>
                <div ana="3.28b" n="58" type="scholion">
@@ -467,7 +467,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.44</p>
                   </div>
                   <div type="comment">
-                     <p> ὅτι κατα συγκοπην τὸν πρόμαχον εἴρηκεν· οὐχ ὡς οἱ γλωσσογράφοι τὸν βασιλέα
+                     <p> ὅτι κατα συγκοπήν τὸν πρόμαχον εἴρηκεν· οὐχ ὡς οἱ γλωσσογράφοι τὸν βασιλέα
                         ⁑ </p>
                   </div>
                </div>
@@ -487,7 +487,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.44a" n="91" type="scholion">
                   <div type="lemma">
-                     <p>φαντες ἀριστῆα </p>
+                     <p>φάντες ἀριστῆα </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.44</p>
@@ -505,8 +505,8 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.45</p>
                   </div>
                   <div type="comment">
-                     <p> εἶδος μετα τὸ εῖδος ἔπ᾽ εὰν στίξῃς ὃ καὶ ἄμεινον ἀπο κοινοῦ τὸ <rs
-                           type="waw">φάντες</rs> ὅτι καλλὸς μέν ἐστι ειδος δὲ ⁑. </p>
+                     <p> εἶδος μετα τὸ εῖδος ἔπ' εὰν στίξῃς ὃ καὶ ἄμεινον ἀπο κοινοῦ τὸ <rs
+                           type="waw">φάντες</rs> ὅτι καλλος μέν ἐστι ειδος δὲ ⁑. </p>
                   </div>
                </div>
                <div ana="3.45D" n="675" type="scholion">
@@ -544,7 +544,7 @@ style simple scholia" alternate="no"?>
                            <abbr>λεγ</abbr>
                            <expan>λεγει</expan>
                         </choice> τὸν ἐκ <placeName>Πελοποννήσου</placeName> εἰς
-                           <placeName>Τροίαν</placeName> πλοῦν ἔστι γὰρ ὑψιλοτέρα τὰ πρὸς ἄπκτους
+                           <placeName>Τροίαν</placeName> πλοῦν ἔστι γὰρ <sic>ὑψιλοτέρα</sic> τὰ πρὸς αυτους
                         ⁑</p>
                   </div>
                </div>
@@ -575,9 +575,9 @@ style simple scholia" alternate="no"?>
                         </choice> καὶ τοῖς ἄλλοις κακὸν <choice>
                            <abbr>μγ</abbr>
                            <expan>μέγα</expan>
-                        </choice> εἶτα ἀπo ἄλλης ἀρχῆς οὐκ ἀν δὴμείνειας
+                        </choice> εἶτα ἀπo ἄλλης ἀρχῆς οὐκ ἀν δὴ μείνειας
                            <persName>Μενέλαον</persName> ἠθικῶς μετὰ πεύσεως ἠ διαβεβαιωτικῶς. τινὲς
-                        δὲ τὸ πᾶν οὕτως τὸν ἤ ἀντὶ τοῦ εἴ εἰ τοιοὺτος ὢν ἐπηγάγου πλῆθος καὶ ἀπὸ
+                        δὲ τὸ πᾶν οὕτως τὸν ἤ ἀντὶ τοῦ εἴ εἰ τοιοῦτος ὢν ἐπηγάγου πλῆθος καὶ ἀπὸ
                         ξένης γῆς γυναῖκα ἀνδρὸς πολεμικοῦ οὐκ ὰν ὑπομείναις τὸν ταύτης ἄνδρα ὃ καὶ
                         προκρίνει <persName>Νικάνωρ</persName> ὡς μᾶλλον τὴν <choice>
                            <abbr>δικαιολογ</abbr>
@@ -619,7 +619,7 @@ style simple scholia" alternate="no"?>
                         ἐκ τοῦ μηδὲ εῖναι ὡς ἀπὸ τῶν εἰς <rs type="waw">μι</rs> κινημα οὐκ
                         ἀπαρέμφατὸν ἐπιπλῶναι οὐκ εὐκτικὸν ἐπιπλοίην οὐ προστὰκτικον ἐπίπλοθι οὐκ
                         ἄλλο οὐδέν· ἔδει δὲ καὶ τὴν μετοχὴν εῖναι ἐπίπλους ὡσβιοὺς καὶ γνούς ὅτι γὰρ
-                        οὐ Δωρικῶς ἐτράπη εἰς τὸ <rs type="waw">ω</rs> ὡς βοὺς βῶς δῆλον ἐκ τοῦ μὴ <choice>
+                        οὐ Δωρικῶς ἐτράπη εἰς τὸ <rs type="waw">ω</rs> ὡς βοῦς βῶς δῆλον ἐκ τοῦ μὴ <choice>
                            <abbr>προκεῖσ</abbr>
                            <expan>προκεῖσθαι</expan>
                         </choice> αὐτοῦ ἐν χρήσει τὸ κοινόν ⁑</p>
