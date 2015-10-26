@@ -582,8 +582,8 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.49</p>
                   </div>
                   <div type="comment">
-                     <p> ὅτι ἀπίαν τὸν πολὺ ἀφεστῶσαν οὐχ ὡς οἱ νεώτεροι τὴν
-                        <placeName n="urn:cite:hmt:place.place36">Πελοπόννησον</placeName> ⁑ </p>
+                     <p> ὅτι ἀπίαν τὸν πολὺ ἀφεστῶσαν οὐχ ὡς οἱ νεώτεροι τὴν <placeName
+                           n="urn:cite:hmt:place.place36">Πελοπόννησον</placeName> ⁑ </p>
                   </div>
                </div>
                <div ana="3.46-52" n="95" type="scholion">
@@ -601,11 +601,12 @@ style simple scholia" alternate="no"?>
                         </choice> καὶ τοῖς ἄλλοις κακὸν <choice>
                            <abbr>μγ</abbr>
                            <expan>μέγα</expan>
-                        </choice> εἶτα ἀπo ἄλλης ἀρχῆς οὐκ ἀν δὴ μείνειας
-                        <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName> ἠθικῶς μετὰ πεύσεως ἠ διαβεβαιωτικῶς. τινὲς
-                        δὲ τὸ πᾶν οὕτως τὸν ἤ ἀντὶ τοῦ εἴ εἰ τοιοῦτος ὢν ἐπηγάγου πλῆθος καὶ ἀπὸ
-                        ξένης γῆς γυναῖκα ἀνδρὸς πολεμικοῦ οὐκ ὰν ὑπομείναις τὸν ταύτης ἄνδρα ὃ καὶ
-                        προκρίνει <persName n="urn:cite:hmt:pers.pers525">Νικάνωρ</persName> ὡς μᾶλλον τὴν <choice>
+                        </choice> εἶτα ἀπo ἄλλης ἀρχῆς οὐκ ἀν δὴ μείνειας <persName
+                           n="urn:cite:hmt:pers.pers119">Μενέλαον</persName> ἠθικῶς μετὰ πεύσεως ἠ
+                        διαβεβαιωτικῶς. τινὲς δὲ τὸ πᾶν οὕτως τὸν ἤ ἀντὶ τοῦ εἴ εἰ τοιοῦτος ὢν
+                        ἐπηγάγου πλῆθος καὶ ἀπὸ ξένης γῆς γυναῖκα ἀνδρὸς πολεμικοῦ οὐκ ὰν ὑπομείναις
+                        τὸν ταύτης ἄνδρα ὃ καὶ προκρίνει <persName n="urn:cite:hmt:pers.pers525"
+                           >Νικάνωρ</persName> ὡς μᾶλλον τὴν <choice>
                            <abbr>δικαιολογ</abbr>
                            <expan>δικαιολογίαν</expan>
                         </choice> ἔχον ⁑ </p>
@@ -619,12 +620,16 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.46</p>
                   </div>
                   <div type="comment">
-                     <p> ὁ σύνδεσμος ὁμοίως τὸ<quote> ἢ καὶ <persName>Λαέρτη</persName> αὐτὴν ὁδὸν <choice>
-                              <abbr>ἄγγε</abbr>
-                              <expan>ἄγγελος</expan>
-                           </choice> ἔλθω</quote>· καί μοι δοκεῖ ἰσοδυναμεῖν τῷ εἴ λέγω δὲ τὸ
-                           τοιοῦτον<quote> εἰ ἤδεις σάφα οἵη περίφρων
-                              <persName>Πηνελόπεια</persName></quote> ⁑</p>
+                     <p> ὁ σύνδεσμος ὁμοίως τὸ <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:16.138</ref>
+                           <quote> ἢ καὶ <persName n="urn:cite:hmt:pers.pers322">Λαέρτη</persName>
+                              αὐτὴν ὁδὸν <choice>
+                                 <abbr>ἄγγε</abbr>
+                                 <expan>ἄγγελος</expan>
+                              </choice> ἔλθω</quote>
+                        </cit>· καί μοι δοκεῖ ἰσοδυναμεῖν τῷ εἴ λέγω δὲ τὸ τοιοῦτον<quote> εἰ ἤδεις
+                           σάφα οἵη περίφρων <persName n="urn:cite:hmt:pers.pers284"
+                              >Πηνελόπεια</persName></quote> ⁑</p>
                   </div>
                </div>
                <div ana="3.47a" n="97" type="scholion">
@@ -635,18 +640,24 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.47</p>
                   </div>
                   <div type="comment">
-                     <p> ὁ <persName>Ἀπολλώνιος</persName> σχηματίζει τὸ ἐπιπλώσας οὕτως πλέω καὶ
-                        ἐπιπλώω οὗ <choice>
-                           <abbr>symbol</abbr>
+                     <p> ὁ <persName n="urn:cite:hmt:pers.pers979">Ἀπολλώνιος</persName> σχηματίζει
+                        τὸ <q>ἐπιπλώσας</q> οὕτως <q>πλέω</q> καὶ <q>ἐπιπλώω</q> οὗ <choice>
+                           <abbr>αο</abbr>
                            <expan>ἀόριστος</expan>
-                        </choice> ἐπέπλωσα <sic>μέτοχὴ</sic> επιπλώσας εῖτα ἀποκοπὴ ἐπίπλώς καὶ τὸ
-                        ἐπέπλως δὲ ῥῆμα<quote> τούνεκα γὰρ καὶ πόντον ἐπέπλως </quote>ὁμοίως εκ τοῦ
-                        επιπλωσας ἀπεκόπη ὅτι γὰρ τὸ ἐπέπλως οὐκ ἔστιν ἀπὸ θέματος τοῦ
-                           <sic>πλώμι</sic> δῆλον ἐκ τοῦ μηδὲ εῖναι ὡς ἀπὸ τῶν εἰς <rs type="waw"
-                           >μι</rs> κινημα οὐκ ἀπαρέμφατὸν ἐπιπλῶναι οὐκ εὐκτικὸν ἐπιπλοίην οὐ
-                        προστακτικόν ἐπίπλοθι οὐκ ἄλλο οὐδέν· ἔδει δὲ καὶ τὴν μετοχὴν εῖναι ἐπίπλους
-                        ὡς βιοὺς καὶ γνούς ὅτι γὰρ οὐ Δωρικῶς ἐτράπη εἰς τὸ <rs type="waw">ω</rs> ὡς
-                        βοῦς βῶς δῆλον ἐκ τοῦ μὴ <choice>
+                        </choice>
+                        <q>ἐπέπλωσα</q>
+                        <sic>μέτοχὴ</sic>
+                        <q>επιπλώσας</q> εῖτα ἀποκοπὴ <q>ἐπίπλώς</q> καὶ τὸ <q>ἐπέπλως</q> δὲ ῥῆμα <cit>
+                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.15</ref>
+                           <quote>τούνεκα γὰρ καὶ πόντον ἐπέπλως</quote>
+                        </cit> ὁμοίως εκ τοῦ <q>επιπλωσας</q> ἀπεκόπη ὅτι γὰρ τὸ <q>ἐπέπλως</q> οὐκ
+                        ἔστιν ἀπὸ θέματος τοῦ <sic>πλώμι</sic> δῆλον ἐκ τοῦ μηδὲ εῖναι ὡς ἀπὸ τῶν
+                        εἰς <rs type="waw">μι</rs> κινημα οὐκ ἀπαρέμφατὸν <q>ἐπιπλῶναι</q> οὐκ
+                        εὐκτικὸν <q>ἐπιπλοίην</q> οὐ προστακτικόν <q>ἐπίπλοθι</q> οὐκ ἄλλο οὐδέν·
+                        ἔδει δὲ καὶ τὴν μετοχὴν εῖναι <q>ἐπίπλους</q> ὡς <q>βιοὺς</q> καὶ
+                           <q>γνούς</q> ὅτι γὰρ οὐ <rs type="ethnic" n="urn:cite:hmt:place.place78"
+                           >Δωρικῶς</rs> ἐτράπη εἰς τὸ <rs type="waw">ω</rs> ὡς <q>βοῦς</q>
+                        <q>βῶς</q> δῆλον ἐκ τοῦ μὴ <choice>
                            <abbr>προκεῖσ</abbr>
                            <expan>προκεῖσθαι</expan>
                         </choice> αὐτοῦ ἐν χρήσει τὸ κοινόν ⁑</p>
