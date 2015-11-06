@@ -665,7 +665,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.57b1" n="114" type="scholion">
                   <div type="lemma">
-                     <p> κακῶν ἕνεχ᾽ ὅσσα ἔοργας </p>
+                     <p> κακῶν ἕνεχ' ὅσσα ἔοργας </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.57</p>
@@ -690,7 +690,7 @@ style simple scholia" alternate="no"?>
                      <p> ὅτι τινὲς μὴ εὑρίσκοντες κατὰ τὴν ποίησιν τὸν
                            <persName>Ἀλέξανδρον</persName> κιθαρίζοντα μετέγραψαν οὐκ άν τοι χραίσμη
                            <rs type="waw">κίδαρις</rs> τοῦτο δὲ πιλου γενος εἶναι λέγουσιν πολλα δέ
-                        ἐστιν ἅπαξ λεγόμενα παρὰ τῷ ποιητη ⁑ </p>
+                        ἐστιν ἅπαξ λεγόμενα παρὰ τῷ <choice><abbr>ποιητ</abbr><expan>ποιητῇ</expan></choice> ⁑ </p>
                   </div>
                </div>
                <div ana="3.57a" n="113" type="scholion">
@@ -701,30 +701,30 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.57</p>
                   </div>
                   <div type="comment">
-                     <p> ἕσσο δια τῶν <num>Β</num>
+                     <p> ἕσσο δια τῶν <num>β</num>
                         <rs type="waw">σσ</rs> εἶχον αἱ <persName>Ἀριστάρχου</persName> καὶ οὐ μόνον
-                        ἐντοῖς ὑπομνήμασι - εἶχον οὕτως, ἀλλὰ καὶ ἐν ἐνίοις λόγος ὑπέκειτο ὅτι
-                        ἀνάλογον ἦν τὸ<quote> έσσω μιν χλαῖνάν τε</quote> καὶ έσσας καὶ ἡ
+                        ἐν τοῖς ὑπομνήμασιν εἶχον οὕτως, ἀλλὰ καὶ ἐν ἐνίοις λόγος ὑπέκειτο ὅτι
+                        ἀνάλογον ἦν τὸ<quote> έσσο μιν χλαῖνάν τε</quote> καὶ έσσας καὶ ἡ
                            <persName>Ζηνοδότου</persName> δὲ οὕτως εἶχεν καὶ ἡ
                            <persName>Ἀριστοφάνους</persName> ⁑</p>
                   </div>
                </div>
                <div ana="3.59-64a" n="116" type="scholion">
                   <div type="lemma">
-                     <p>Ἕκτορ ἐπεί με κατ᾽ αῖσαν</p>
+                     <p>Ἕκτορ ἐπεί με κατ' αῖσαν</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.59-3.64</p>
                   </div>
                   <div type="comment">
-                     <p> μετὰ τὴν κλητικὴν στικτέον κατὰ δὲ τὸ τέλος τοῦστίχου στικτέον ἐν
-                        ὑποκρίσει· ὅλη δὲ ἡ ὁμοίωσις διὰ μέσου τὸ γὰρ ἑξῆς ἐπεί με κατ᾽ αῖσαν
+                     <p> μετὰ τὴν κλητικὴν στικτέον κατὰ δὲ τὸ τέλος τοῦ στίχου στικτέον ἐν
+                        ὑποκρίσει· ὅλη δὲ ἡ ὁμοίωσις διὰ μέσου τὸ γὰρ ἑξῆς ἐπεί με κατ' αῖσαν
                         ἐνείκεσας ⁑ </p>
                   </div>
                </div>
                <div ana="3.59-64a" n="677" type="scholion">
                   <div type="lemma">
-                     <p> μή μοι Δῶρ᾽ ἐρατὰπρόφερε</p>
+                     <p> μή μοι Δῶρ' ἐρατὰπρόφερε</p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.64</p>
@@ -763,13 +763,13 @@ style simple scholia" alternate="no"?>
                   <div type="comment">
                      <p>
                         <persName>Ἕκτορ</persName> οὐκ <quote>ἠθεῖε</quote> οὐδὲ
-                           <quote>κασιγνήτη</quote> τε ὡς πολλαχοῦ ἀλλ᾽ <persName>Ἕκτορ</persName>·
+                           <quote>κασιγνήτη</quote> τε ὡς πολλαχοῦ ἀλλ' <persName>Ἕκτορ</persName>·
                         πᾶσαν γὰρ προσηγορίαν ὁ θυμὸς ἐξέκοψε ⁑</p>
                   </div>
                </div>
                <div ana="3.64a" n="126" type="scholion">
                   <div type="lemma">
-                     <p> μή μοι Δῶρ </p>
+                     <p> μή μοι δῶρ </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.64</p>
