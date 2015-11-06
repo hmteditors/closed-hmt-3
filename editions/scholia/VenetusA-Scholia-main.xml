@@ -690,7 +690,10 @@ style simple scholia" alternate="no"?>
                      <p> ὅτι τινὲς μὴ εὑρίσκοντες κατὰ τὴν ποίησιν τὸν
                            <persName>Ἀλέξανδρον</persName> κιθαρίζοντα μετέγραψαν οὐκ άν τοι χραίσμη
                            <rs type="waw">κίδαρις</rs> τοῦτο δὲ πιλου γενος εἶναι λέγουσιν πολλα δέ
-                        ἐστιν ἅπαξ λεγόμενα παρὰ τῷ <choice><abbr>ποιητ</abbr><expan>ποιητῇ</expan></choice> ⁑ </p>
+                        ἐστιν ἅπαξ λεγόμενα παρὰ τῷ <choice>
+                           <abbr>ποιητ</abbr>
+                           <expan>ποιητῇ</expan>
+                        </choice> ⁑ </p>
                   </div>
                </div>
                <div ana="3.57a" n="113" type="scholion">
@@ -724,7 +727,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.59-64a" n="677" type="scholion">
                   <div type="lemma">
-                     <p> μή μοι Δῶρ' ἐρατὰπρόφερε</p>
+                     <p> μή μοι Δῶρ' ἐρατὰ πρόφερε ⁚ </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.64</p>
@@ -740,7 +743,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.51" n="104" type="scholion">
                   <div type="lemma">
-                     <p> κατηφείην δὲ σοὶ αὐτῷ </p>
+                     <p> κατηφείην δὲ σοὶ αὐτῷ ⁚ </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.51</p>
@@ -801,9 +804,9 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div type="comment">
                      <p> ὅτι <persName>Ζενοδοτος</persName> γράφει ἐλεήμονες οὐκ ἐλεοῦσι δὲ αὐτὸν
-                        ἀλλὰ μισοῦσι<quote> οὐ μὲν γὰρ φιλότητί γ' ἐκεύθανον ῏ϊσον γάρ σφιν πασῖν
+                        ἀλλὰ μισοῦσι<quote> οὐ μὲν γὰρ φιλότητί γ' ἐκεύθανον ῏ϊσον γάρ σφιν πᾶσιν
                            ἀπήχθετο</quote> δια δὲ τὸν <persName>Πρίαμον</persName> καὶ τὸν
-                           ῎<persName>Εκτορα</persName> εὐλαβοῦνται αὐτῷ ἀντιπράσσειν ⁑</p>
+                        <persName>Ἕκτορα</persName> εὐλαβοῦνται αὐτῷ ἀντιπράσσειν ⁑</p>
                   </div>
                </div>
                <div ana="3.63a" n="123" type="scholion">
@@ -819,17 +822,14 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.65" n="129" type="scholion">
                   <div type="lemma">
-                     <p> οὔ τοι ἀπόβλητ᾽ </p>
+                     <p> οὔ τοι ἀπόβλητ' </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.65</p>
                   </div>
                   <div type="comment">
-                     <p> πρὸς τὸ <choice>
-                           <abbr>ζητούμ</abbr>
-                           <expan>ζητούμενον</expan>
-                        </choice> πῶς εἰ οὐκ ἐστιν ἀπόβλητα<quote> ἑκὼν οὐκ ἄν τις ἕλοιτο</quote>
-                        ⁑</p>
+                     <p> πρὸς τὸ ζητούμενον πῶς εἰ οὐκ ἐστιν ἀπόβλητα<quote> ἑκὼν οὐκ ἄν τις
+                           ἕλοιτο</quote> ⁑</p>
                   </div>
                </div>
                <div ana="3.71b" n="136" type="scholion">
@@ -844,7 +844,7 @@ style simple scholia" alternate="no"?>
                            type="waw">ν</rs>
                         <quote>κρείσσω</quote>· τὰ δὲ τοιαῦτα συγκριτικὰ ἐπι τῆς <choice>
                            <abbr>ορ</abbr>
-                           <expan>ορθῆς</expan>
+                           <expan>ὀρθῆς</expan>
                         </choice> ἔχει τὸ <rs type="waw">ν</rs> ⁑ </p>
                   </div>
                </div>
