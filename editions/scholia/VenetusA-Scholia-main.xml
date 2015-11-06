@@ -904,7 +904,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.80b" n="149" type="scholion">
                   <div type="lemma">
-                     <p> ϊοῖσιν τι τυσκόμενοι </p>
+                     <p> ϊοισιν τιτυσκόμενοι </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.80</p>
@@ -916,7 +916,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div ana="3.82b" n="151" type="scholion">
                   <div type="lemma">
-                     <p> ΐσχεσθ᾽ <rs>Ἀργεῖοι</rs>
+                     <p> ΐσχεσθ' <rs>Ἀργεῖοι</rs>
                      </p>
                   </div>
                   <div type="ref">
@@ -934,12 +934,12 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.83</p>
                   </div>
                   <div type="comment">
-                     <p> ὅτι τὸ στεῦται ἀντὶ τοῦ κατὰδιάνοιαν ὁρίζεται ⁑ </p>
+                     <p> ὅτι τὸ στεῦται ἀντὶ τοῦ κατὰ διάνοιαν ὁρίζεται ⁑ </p>
                   </div>
                </div>
                <div ana="3.89" n="157" type="scholion">
                   <div type="lemma">
-                     <p> αὐτὸν δ᾽ ἐν μέσω </p>
+                     <p> αὐτὸν δ' ἐν μέσω </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.90</p>
@@ -982,27 +982,21 @@ style simple scholia" alternate="no"?>
                   <div type="comment">
                      <p> ὅτι <persName>Ζηνόδοτος</persName> γράφει <quote><rs>Ἀργεῖοι</rs> καὶ
                               <rs>Τρῶες</rs></quote> ὡς ἀποστροφῆς τοῦ λόγου γεγονυίας πρὸς αυτούς·
-                        ἔστι δὲ τὸ <choice>
-                           <abbr>διακρινθην</abbr>
-                           <expan>διακρινθηναι</expan>
-                        </choice> διχῶς χωρισθῆναι· ὁ δὲ <persName>Ζηνοδοτος</persName> συνήθως ἡμῖν
+                        ἔστι δὲ τὸ διακρινθηναι διχῶς χωρισθῆναι· ὁ δὲ <persName>Ζηνοδοτος</persName> συνήθως ἡμῖν
                         τέταχεν ⁑ </p>
                   </div>
                </div>
                <div ana="3.100b" n="168" type="scholion">
                   <div type="lemma">
-                     <p> ἕνεκ᾽ ἀρχῆς </p>
+                     <p> ἕνεκ' ἀρχῆς </p>
                   </div>
                   <div type="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:3.100</p>
                   </div>
                   <div type="comment">
-                     <p> ὅτι <persName>Ζηνόδοτος</persName> γράφει ἕνεκ᾽ ἄτης· ἔσται δὲ <choice>
-                           <abbr>ἀπολογούμ</abbr>
-                           <expan>ἀπολογούμενος</expan>
-                        </choice>
+                     <p> ὅτι <persName>Ζηνόδοτος</persName> γράφει <q>ἕνεκ' ἄτης</q>· ἔσται δὲ ἀπολογούμενος
                         <persName>Μενέλαος</persName> ὅτι ἄτη περιέπεσεν ὁ
-                           <persName>Ἀλέξανδρος</persName>. δια μέντοι τοῦ ἕνεκ᾽ ἀρχῆς. ἐνδείκνυται
+                           <persName>Ἀλέξανδρος</persName>. δια μέντοι τοῦ <q>ἕνεκ' ἀρχῆς</q>. ἐνδείκνυται
                         ὅτι προκατῆρξεν ⁑ </p>
                   </div>
                </div>
